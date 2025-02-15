@@ -57,7 +57,5 @@
 - **API Base URL**: https://qa-internship.avito.com  
 - **OS**: Windows 10
 - **Tool**: Postman 11.32.1
-- 
 ---
-
 
